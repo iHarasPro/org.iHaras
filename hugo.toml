@@ -1,0 +1,5 @@
+title = 'Website'
+languageCode = 'en-us'
+baseURL = 'https://iHaras.org'
+copyright = 'İbrahim Haras'
+disableHugoGeneratorInject = true
